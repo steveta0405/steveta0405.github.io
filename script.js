@@ -77,7 +77,7 @@ window.onload = function () {
       // Change content on "Yes" button click when full screen
       yesButton.onclick = function () {
         document.body.innerHTML =
-          "<div style='text-align: center; color: black;'><h1>I love you :D (don't overcram tho)</h1><img src='Yes2.png' alt='Love Image' style='max-width: 100%; height: auto;'></div>";
+          "<div style='text-align: center; color: black;'><h1>I love you :D (don't overcram tho):<</h1><img src='Yes2.png' alt='Love Image' style='max-width: 100%; height: auto;'></div>";
       };
     }
   });
